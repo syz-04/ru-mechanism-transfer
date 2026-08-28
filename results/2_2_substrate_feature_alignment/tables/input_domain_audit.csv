@@ -1,0 +1,4 @@
+domain,input_file,raw_rows,analysis_rows,excluded_rows,unique_substrates,unique_ligands,ddG_min,ddG_max,contains_negative_ddG
+target,data/transfer/ru_aho_inner.csv,98,98,0,38,22,0.0,4.50050002,False
+inner,data/transfer/ru_ahk_inner.csv,495,495,0,214,41,0.022458866380781,5.182772722985827,False
+outer,data/transfer/ru_ahk_outer.csv,1539,1539,0,345,304,0.0,4.525769623904132,False

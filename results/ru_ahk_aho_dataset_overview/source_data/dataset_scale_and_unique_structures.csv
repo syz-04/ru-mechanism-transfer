@@ -1,0 +1,5 @@
+Domain,domain_label,reactions,unique_substrates,unique_ligand_systems,reactions_relative_to_target,unique_substrates_relative_to_target,unique_ligand_systems_relative_to_target
+ahk_outer,Outer-sphere Ru-AHK,1539,345,304,15.704081632653061,9.078947368421053,13.818181818181818
+ahk_inner,Inner-sphere Ru-AHK,495,214,41,5.051020408163265,5.631578947368421,1.8636363636363635
+aho_inner,Inner-sphere Ru-AHO target,98,38,22,1.0,1.0,1.0
+ahk_all,All Ru-AHK,2034,527,345,20.755102040816325,13.868421052631579,15.681818181818182

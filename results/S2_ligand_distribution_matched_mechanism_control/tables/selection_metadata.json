@@ -1,0 +1,35 @@
+{
+  "data_hash": "0155839dd5fe4717",
+  "random_state": 42,
+  "source_size": 495,
+  "selected_outer_subset_hash": "9dec186e2c6c7767",
+  "selected_unique_ligands": 44,
+  "selected_ligand_capacity_before_row_freeze": 495,
+  "strict_four_metric_ligand_match": false,
+  "metric_names": [
+    "rbf_mmd",
+    "energy_distance",
+    "sliced_wasserstein",
+    "symmetric_knn_distance"
+  ],
+  "aligned_inner_distances": {
+    "rbf_mmd": 0.36244178501838503,
+    "energy_distance": 4.20988655090332,
+    "sliced_wasserstein": 0.6383318871771205,
+    "symmetric_knn_distance": 15.292806148529053
+  },
+  "selected_outer_distances": {
+    "rbf_mmd": 0.3698303399436896,
+    "energy_distance": 4.2887420654296875,
+    "sliced_wasserstein": 0.6504610157371917,
+    "symmetric_knn_distance": 13.95361614227295
+  },
+  "selected_outer_over_aligned_ratios": {
+    "rbf_mmd": 1.0203854942523523,
+    "energy_distance": 1.0187310307707573,
+    "sliced_wasserstein": 1.0190012888337907,
+    "symmetric_knn_distance": 0.9124300672323036
+  },
+  "selection_uses_ddG": false,
+  "selection_uses_substrate_or_conditions": false
+}

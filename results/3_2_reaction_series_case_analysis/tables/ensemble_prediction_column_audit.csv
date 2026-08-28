@@ -1,0 +1,4 @@
+scenario_key,scenario,result_name,prediction_column
+target_only,Target-only,Target-only | 3 MACCS + 3 SPOC ensemble mean,pred_target_only_3_maccs_3_spoc_ensemble_mean
+mechanism_mismatched,Mechanism-mismatched,Mechanism-mismatched transfer | 3 MACCS + 3 SPOC ensemble mean,pred_mechanism_mismatched_transfer_3_maccs_3_spoc_ensemble_mean
+mechanism_aligned,Mechanism-aligned,Mechanism-aligned transfer | 3 MACCS + 3 SPOC ensemble mean,pred_mechanism_aligned_transfer_3_maccs_3_spoc_ensemble_mean

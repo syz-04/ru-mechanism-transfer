@@ -1,0 +1,51 @@
+descriptor,model,task_id,scene_label,source_domain,target_domain,relation_label,method_label,R2,MAE,RMSE,n_test_total
+SPOC_official_like,DecisionTreeRegressor,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Delta learning,-0.04466625809439018,0.5517574680784699,0.9666107880159239,98
+SPOC_official_like,DecisionTreeRegressor,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Mixed transfer,0.32387799665304207,0.4759588541377752,0.7776342652771464,98
+SPOC_official_like,DecisionTreeRegressor,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Delta learning,-0.27277048029160844,0.6869564596419409,1.0669348501927285,98
+SPOC_official_like,DecisionTreeRegressor,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Mixed transfer,0.41278983283127724,0.4531569426883488,0.7247022961088998,98
+SPOC_official_like,DecisionTreeRegressor,target_only_ru_aho_inner,Ru-AHO inner target-only,none,inner,Target-only,Target-only,0.20988500164170398,0.46716621969387756,0.8406360433437774,98
+SPOC_official_like,ExtraTreeRegressor,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Delta learning,0.46239434458182604,0.4514227295635644,0.6934174529339402,98
+SPOC_official_like,ExtraTreeRegressor,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Mixed transfer,0.2010203229175057,0.4992258013571004,0.845338639231989,98
+SPOC_official_like,ExtraTreeRegressor,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Delta learning,-0.8541454008410001,0.6964056664082794,1.2877594577632148,98
+SPOC_official_like,ExtraTreeRegressor,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Mixed transfer,0.3887338301114055,0.4375508533407201,0.739397596349297,98
+SPOC_official_like,ExtraTreeRegressor,target_only_ru_aho_inner,Ru-AHO inner target-only,none,inner,Target-only,Target-only,0.24309471879769795,0.4708984713265306,0.8227798018528095,98
+SPOC_official_like,ExtraTreesRegressor,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Delta learning,0.5441207854144419,0.4028380440590257,0.6385394733898425,98
+SPOC_official_like,ExtraTreesRegressor,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Mixed transfer,0.681813055254294,0.3671028713788275,0.5334626675760838,98
+SPOC_official_like,ExtraTreesRegressor,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Delta learning,0.4296418169129891,0.42354856064242674,0.7142277049475705,98
+SPOC_official_like,ExtraTreesRegressor,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Mixed transfer,0.5732014590181249,0.41205477479344405,0.6178375748342587,98
+SPOC_official_like,ExtraTreesRegressor,target_only_ru_aho_inner,Ru-AHO inner target-only,none,inner,Target-only,Target-only,0.4275911238865956,0.42046377481836755,0.7155105370782638,98
+SPOC_official_like,GaussianProcessRegressor,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Delta learning,0.026422963032354252,0.7249134411885494,0.9331425971484797,98
+SPOC_official_like,GaussianProcessRegressor,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Mixed transfer,0.055935343288601724,0.7090337703685957,0.9188904196860007,98
+SPOC_official_like,GaussianProcessRegressor,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Delta learning,0.02642296303235414,0.7249134411885494,0.9331425971484798,98
+SPOC_official_like,GaussianProcessRegressor,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Mixed transfer,0.07167806879971772,0.7032187797419587,0.9111967443371319,98
+SPOC_official_like,GaussianProcessRegressor,target_only_ru_aho_inner,Ru-AHO inner target-only,none,inner,Target-only,Target-only,0.02642296303235414,0.7249134411885494,0.9331425971484798,98
+SPOC_official_like,GradientBoostingRegressor,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Delta learning,0.6364706974387011,0.3988763580806988,0.5702070278055242,98
+SPOC_official_like,GradientBoostingRegressor,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Mixed transfer,0.6303138594191212,0.41409713486118427,0.5750153505442677,98
+SPOC_official_like,GradientBoostingRegressor,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Delta learning,0.5781409623021697,0.4339017600923654,0.6142519344806231,98
+SPOC_official_like,GradientBoostingRegressor,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Mixed transfer,0.5989373788811767,0.42560733984055055,0.5989201820991188,98
+SPOC_official_like,GradientBoostingRegressor,target_only_ru_aho_inner,Ru-AHO inner target-only,none,inner,Target-only,Target-only,0.6216549561960976,0.4058044566618454,0.581710467449914,98
+SPOC_official_like,HistGradientBoostingRegressor,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Delta learning,0.5938600036217196,0.43930349514514955,0.6026993656520012,98
+SPOC_official_like,HistGradientBoostingRegressor,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Mixed transfer,0.7029082984069634,0.35252056958565897,0.5154756022020172,98
+SPOC_official_like,HistGradientBoostingRegressor,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Delta learning,0.6376560957843842,0.43474999195317876,0.5692766015980321,98
+SPOC_official_like,HistGradientBoostingRegressor,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Mixed transfer,0.6169487663150228,0.41786344248372354,0.5853172005157624,98
+SPOC_official_like,HistGradientBoostingRegressor,target_only_ru_aho_inner,Ru-AHO inner target-only,none,inner,Target-only,Target-only,0.5421358986025179,0.4675133356599277,0.6399280560956923,98
+SPOC_official_like,KNeighborsRegressor,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Delta learning,0.3917416362818925,0.538386083173458,0.7375762071302933,98
+SPOC_official_like,KNeighborsRegressor,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Mixed transfer,0.33686276477013577,0.5263031451926353,0.7701309217135769,98
+SPOC_official_like,KNeighborsRegressor,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Delta learning,0.23986430334149933,0.6284541466651726,0.8245337139596187,98
+SPOC_official_like,KNeighborsRegressor,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Mixed transfer,0.3305070412480857,0.5281150491105129,0.7738127138295572,98
+SPOC_official_like,KNeighborsRegressor,target_only_ru_aho_inner,Ru-AHO inner target-only,none,inner,Target-only,Target-only,0.31017451798442175,0.5379294197142857,0.7854751875147948,98
+SPOC_official_like,LinearSVR,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Delta learning,-0.9130113520183956,0.8407898073353289,1.3080418152426052,98
+SPOC_official_like,LinearSVR,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Mixed transfer,0.23430115412965324,0.5411757446289417,0.8275454407014913,98
+SPOC_official_like,LinearSVR,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Delta learning,-4.5496041089072765,1.1617124077777525,2.227890571680686,98
+SPOC_official_like,LinearSVR,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Mixed transfer,-2.404711829601157,0.9651188273283001,1.7450305476376167,98
+SPOC_official_like,LinearSVR,target_only_ru_aho_inner,Ru-AHO inner target-only,none,inner,Target-only,Target-only,-0.20530521317908867,0.7235460352324579,1.0382725483878799,98
+SPOC_official_like,RandomForestRegressor,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Delta learning,0.5898247438724029,0.3990299883924465,0.6056860664820661,98
+SPOC_official_like,RandomForestRegressor,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Mixed transfer,0.664337713132809,0.3903377375694371,0.5479161840926725,98
+SPOC_official_like,RandomForestRegressor,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Delta learning,0.6181662784726498,0.4075634535050146,0.5843862571935329,98
+SPOC_official_like,RandomForestRegressor,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Mixed transfer,0.6498062381609024,0.39440565664706645,0.5596507071209117,98
+SPOC_official_like,RandomForestRegressor,target_only_ru_aho_inner,Ru-AHO inner target-only,none,inner,Target-only,Target-only,0.5008918124905893,0.4473406456092858,0.6681288131520529,98
+SPOC_official_like,SVR,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Delta learning,0.48653352741747347,0.45889391842631416,0.6776709978139615,98
+SPOC_official_like,SVR,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Mixed transfer,0.48594356021880525,0.47319525419395886,0.6780602042227472,98
+SPOC_official_like,SVR,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Delta learning,0.5000714826451123,0.45098263591190413,0.6686776530602203,98
+SPOC_official_like,SVR,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Mixed transfer,0.5558921470948416,0.41947572371007813,0.6302416208414225,98
+SPOC_official_like,SVR,target_only_ru_aho_inner,Ru-AHO inner target-only,none,inner,Target-only,Target-only,0.48832294240658614,0.45694044370126574,0.6764891358525525,98

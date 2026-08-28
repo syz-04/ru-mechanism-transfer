@@ -1,0 +1,4 @@
+model_specification,median__signed_cosine,median__weighted_absolute_overlap,interval_05__signed_cosine,interval_05__weighted_absolute_overlap,interval_95__signed_cosine,interval_95__weighted_absolute_overlap,positive_fraction__signed_cosine,positive_fraction__weighted_absolute_overlap,valid_repeats__signed_cosine,valid_repeats__weighted_absolute_overlap
+substrate_ligand,0.08132626585944283,0.03314035779336934,-0.21773532786390026,-0.09583859277911376,0.48005510082411385,0.22136289281944152,0.66,0.63,100.0,100.0
+substrate_ligand_conditions,0.13673276599168865,0.008330411573351106,-0.24455849866478263,-0.11690451246513127,0.5835125038917447,0.21439083534161082,0.65,0.56,100.0,100.0
+substrate_only,0.15617485301176548,0.03637468244050725,-0.0829936248665515,-0.09814252187002792,0.47403261093017807,0.15246341668305546,0.84,0.65,100.0,100.0

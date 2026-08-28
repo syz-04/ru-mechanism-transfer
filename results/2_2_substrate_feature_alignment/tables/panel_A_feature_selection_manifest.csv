@@ -1,0 +1,7 @@
+feature_name,bit_index,selection_frequency__inner,selection_frequency__outer,selection_frequency__target,median_selected_coefficient__inner,median_selected_coefficient__outer,median_selected_coefficient__target,stable_feature__inner,stable_feature__outer,stable_feature__target,stable_any_domain,ranking_score
+substrate_MACCS_132,132.0,0.84,0.17,0.92,0.3014815953074776,0.1555074783430592,0.24874683833081954,True,False,True,True,0.2773630676828794
+substrate_MACCS_101,101.0,0.12,0.25,0.71,0.25141030534559095,0.1676303399167384,0.25592310917464484,False,False,True,True,0.18170540751399783
+substrate_MACCS_146,146.0,0.02,0.12,0.82,-0.18587774347830877,0.12822977411068268,-0.1586020906150561,False,False,True,True,0.15241974965221317
+substrate_MACCS_100,100.0,0.22,0.04,0.72,-0.16384581943412427,0.19516204227318534,0.17493246243951027,False,False,True,True,0.14051667043669344
+substrate_MACCS_087,87.0,0.29,0.13,0.91,0.14998186118964052,0.12527191307223726,0.13313131622090243,False,False,True,True,0.13648349368257287
+substrate_MACCS_149,149.0,0.63,0.2,0.01,0.17432538106271858,0.1391736931920512,0.12670788543053765,True,False,False,True,0.10982499006951271

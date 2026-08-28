@@ -1,0 +1,6 @@
+check,passed
+all displayed subsets occur in complete candidate tables,True
+all displayed cases use allowed evidence tiers,True
+mechanism-aligned ordering is perfect within every displayed subset,True
+at least one competitor failure occurs in every displayed subset,True
+main-text and structure SVG files parse,True

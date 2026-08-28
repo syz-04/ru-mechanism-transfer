@@ -1,0 +1,10 @@
+feature_name,bit_index,domain,row_id,canonical_substrate,selection_rule,uses_ddG_for_selection
+substrate_MACCS_132,132,target,target_0089,C=C(CC(=O)O)C(=O)O,MACCS medoid followed by farthest-point diversity,False
+substrate_MACCS_132,132,target,target_0015,C=C(CC(=O)OC)C(=O)OC,MACCS medoid followed by farthest-point diversity,False
+substrate_MACCS_132,132,target,target_0049,C=C1CCCO1,MACCS medoid followed by farthest-point diversity,False
+substrate_MACCS_132,132,inner,inner_0067,COc1ccc(C(=O)CCNCc2ccccc2)cc1,MACCS medoid followed by farthest-point diversity,False
+substrate_MACCS_132,132,inner,inner_0437,O=C(CC(=O)C(F)(F)F)c1ccccc1,MACCS medoid followed by farthest-point diversity,False
+substrate_MACCS_132,132,inner,inner_0223,CC(C)(C)C(=O)CO,MACCS medoid followed by farthest-point diversity,False
+substrate_MACCS_132,132,outer,outer_0110,Cc1ccc(C(=O)CCN2CCN(c3ccccc3)CC2)cc1,MACCS medoid followed by farthest-point diversity,False
+substrate_MACCS_132,132,outer,outer_1248,CC(=O)CC(C)(C)C,MACCS medoid followed by farthest-point diversity,False
+substrate_MACCS_132,132,outer,outer_0274,O=C(CCl)c1cccc(O)c1,MACCS medoid followed by farthest-point diversity,False

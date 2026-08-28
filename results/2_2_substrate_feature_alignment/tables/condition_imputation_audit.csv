@@ -1,0 +1,10 @@
+model_specification,condition,domain,missing_imputed,pooled_median
+substrate_ligand_conditions,condition_Pressure/atm,target,0,30.0
+substrate_ligand_conditions,condition_Pressure/atm,inner,0,30.0
+substrate_ligand_conditions,condition_Pressure/atm,outer,0,30.0
+substrate_ligand_conditions,condition_Temperature/C,target,0,25.0
+substrate_ligand_conditions,condition_Temperature/C,inner,0,25.0
+substrate_ligand_conditions,condition_Temperature/C,outer,0,25.0
+substrate_ligand_conditions,condition_S/C,target,0,996.000063744004
+substrate_ligand_conditions,condition_S/C,inner,13,996.000063744004
+substrate_ligand_conditions,condition_S/C,outer,29,996.000063744004

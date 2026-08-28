@@ -1,0 +1,4 @@
+descriptor,model,task_id,scene_label,source_domain,target_domain,relation_label,method_label,R2,MAE,RMSE,n_test_total,display_name,selection,point_color
+MACCS,SVR,target_only_ru_aho_inner,Ru-AHO inner target-only,none,inner,Target-only,Target-only,0.4950429517585716,0.45211686394765643,0.6720321857906114,98,Best target-only baseline,baseline,#009E73
+MACCS,SVR,ru_ahk_outer_to_ru_aho_inner,Ru-AHK outer -> Ru-AHO inner,outer,inner,Different mechanism,Mixed transfer,0.5624584293973558,0.41736724951677473,0.6255651045256789,98,Best different-mechanism transfer,different_mechanism_transfer,#D55E00
+MACCS,ExtraTreesRegressor,ru_ahk_inner_to_ru_aho_inner,Ru-AHK inner -> Ru-AHO inner,inner,inner,Same mechanism,Mixed transfer,0.640186249107388,0.3504870863085976,0.5672855644983352,98,Best same-mechanism transfer,same_mechanism_transfer,#0072B2
