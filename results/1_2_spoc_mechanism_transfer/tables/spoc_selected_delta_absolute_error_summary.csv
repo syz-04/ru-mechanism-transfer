@@ -1,0 +1,3 @@
+descriptor,transfer,n,n_improved,fraction_improved,median_delta_abs_error,mean_delta_abs_error
+SPOC,Different-mechanism transfer,98,53,0.5408163265306123,-0.021355829453667985,-0.011398800014778982
+SPOC,Same-mechanism transfer,98,51,0.5204081632653061,-0.001939091986576047,-0.053283887076186455

@@ -1,0 +1,2 @@
+n_loaded_rows,n_finite_ddG,n_nonfinite_ddG,ddG_min,ddG_q25,ddG_median,ddG_q75,ddG_max,ddG_mean,ddG_std,units,n_raw_input_rows,n_rows_removed_by_loader
+103,103,0,0.142884582899239,1.6049478086961573,2.4793021357091005,3.136196721914521,3.136196721914521,2.242338158012904,0.9557873884826079,kcal/mol,103,0

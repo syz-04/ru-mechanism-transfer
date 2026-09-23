@@ -1,0 +1,20 @@
+{
+  "analysis": "post hoc illustrative individual reaction selection; no model fitting",
+  "thresholds": {
+    "aligned_max": 0.3,
+    "target_min": 0.4,
+    "mismatched_min": 0.4
+  },
+  "n_external": 103,
+  "n_eligible": 4,
+  "selected_row_indices": [
+    87,
+    71,
+    81,
+    85
+  ],
+  "inputs": {
+    "/home/syz/ru-mechanism-transfer/results/2_1_recent_aho_external_validation/tables/external_predictions.csv": "b9ddb0fc4bb1bef26b8b774aec71389bca961fd741ee48beed6a76a6169118ff",
+    "/home/syz/ru-mechanism-transfer/results/2_1_recent_aho_external_validation/tables/external_metrics_all_selected_models.csv": "be1533f8b1ca39769f1573b1057e554a674df5285e5adf0512ad45b852645795"
+  }
+}

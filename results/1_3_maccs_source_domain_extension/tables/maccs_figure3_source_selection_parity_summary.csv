@@ -1,0 +1,5 @@
+source_rule_id,source_label,model,method_label,R2,MAE,RMSE,n_oof
+substrate_similar,Substrate similar,SVR,Mixed transfer,0.536197971597924,0.4329422834138251,0.6440642239027681,98
+ligand_similar,Ligand similar,ExtraTreeRegressor,Delta learning,0.5432344952964929,0.4010733880437967,0.6391598750364389,98
+reaction_representation_similar,Reaction-representation similar,RandomForestRegressor,Mixed transfer,0.5605120928979712,0.44797387870690436,0.6269549258001029,98
+mechanism_aligned,Mechanism aligned,ExtraTreesRegressor,Mixed transfer,0.640186249107388,0.35048708630859765,0.5672855644983353,98

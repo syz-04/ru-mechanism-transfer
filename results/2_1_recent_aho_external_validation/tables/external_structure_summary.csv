@@ -1,0 +1,6 @@
+component,n_unique_valid_structures,n_valid_records,n_missing_records,n_invalid_records
+Reactant SMILES,55,103,0,0
+Product SMILES,55,103,0,0
+Additive SMILES,12,84,19,0
+Solvent SMILES,10,103,0,0
+Ligand SMILES,12,103,0,0

@@ -1,0 +1,13 @@
+example_id,external_row_index,component,smiles,status,file
+Example_01,87,substrate,C=C(OCC)c1c(C(=O)OCC)cnn2ccnc12,saved,/home/syz/ru-mechanism-transfer/results/2_2_individual_reaction_examples/structures/Example_01_row87_substrate.svg
+Example_01,87,product,CCOC(=O)c1cnn2ccnc2c1[C@@H](C)OCC,saved,/home/syz/ru-mechanism-transfer/results/2_2_individual_reaction_examples/structures/Example_01_row87_product.svg
+Example_01,87,ligand_representation,COc1ccc(C(N)(c2ccc(OC)cc2)[C@H](N)C(C)C)cc1.Cc1cc(C)cc(P(c2cc(C)cc(C)c2)c2ccc3ccccc3c2-c2c(P(c3cc(C)cc(C)c3)c3cc(C)cc(C)c3)ccc3ccccc23)c1,saved,/home/syz/ru-mechanism-transfer/results/2_2_individual_reaction_examples/structures/Example_01_row87_ligand_representation.svg
+Example_02,71,substrate,C=C(CC(=O)c1ccccc1)C(=O)O,saved,/home/syz/ru-mechanism-transfer/results/2_2_individual_reaction_examples/structures/Example_02_row71_substrate.svg
+Example_02,71,product,C[C@@H](CC(=O)c1ccccc1)C(=O)O,saved,/home/syz/ru-mechanism-transfer/results/2_2_individual_reaction_examples/structures/Example_02_row71_product.svg
+Example_02,71,ligand_representation,CC(C)(C)[C@H]1COC([C]23[CH]4[CH]5[CH]6[C]2(P(c2ccccc2)c2ccccc2)[Ru]54632789[CH]3[CH]2[C]7(C2=N[C@@H](C(C)(C)C)CO2)[C]8(P(c2ccccc2)c2ccccc2)[CH]39)=N1.c1ccc(P(c2ccccc2)c2ccccc2)cc1,saved,/home/syz/ru-mechanism-transfer/results/2_2_individual_reaction_examples/structures/Example_02_row71_ligand_representation.svg
+Example_03,81,substrate,C=C(OCC)c1c(C(=O)OCC)cnn2ccnc12,saved,/home/syz/ru-mechanism-transfer/results/2_2_individual_reaction_examples/structures/Example_03_row81_substrate.svg
+Example_03,81,product,CCOC(=O)c1cnn2ccnc2c1[C@@H](C)OCC,saved,/home/syz/ru-mechanism-transfer/results/2_2_individual_reaction_examples/structures/Example_03_row81_product.svg
+Example_03,81,ligand_representation,Cc1ccc(C(C)C)cc1.c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1,saved,/home/syz/ru-mechanism-transfer/results/2_2_individual_reaction_examples/structures/Example_03_row81_ligand_representation.svg
+Example_04,85,substrate,C=C(OCC)c1c(C(=O)OCC)cnn2ccnc12,saved,/home/syz/ru-mechanism-transfer/results/2_2_individual_reaction_examples/structures/Example_04_row85_substrate.svg
+Example_04,85,product,CCOC(=O)c1cnn2ccnc2c1[C@@H](C)OCC,saved,/home/syz/ru-mechanism-transfer/results/2_2_individual_reaction_examples/structures/Example_04_row85_product.svg
+Example_04,85,ligand_representation,Cc1cc(C)cc(P(c2cc(C)cc(C)c2)c2ccc3c(c2-c2c(P(c4cc(C)cc(C)c4)c4cc(C)cc(C)c4)ccc4c2OCO4)OCO3)c1.Cc1ccc(C(C)C)cc1,saved,/home/syz/ru-mechanism-transfer/results/2_2_individual_reaction_examples/structures/Example_04_row85_ligand_representation.svg

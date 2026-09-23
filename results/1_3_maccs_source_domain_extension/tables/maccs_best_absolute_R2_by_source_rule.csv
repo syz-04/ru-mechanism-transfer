@@ -1,6 +1,6 @@
 source_rule_id,source_label,model,method_label,R2,MAE,RMSE
-target_only,Target-only baseline,SVR,Target-only,0.4950429517585716,0.45211686394765643,0.6720321857906114
-mechanism_aligned,Mechanism aligned,ExtraTreesRegressor,Mixed transfer,0.640186249107388,0.3504870863085976,0.5672855644983352
+target_only,Target-only baseline,SVR,Target-only,0.4950429517585717,0.45211686394765643,0.6720321857906114
 substrate_similar,Substrate similar,SVR,Mixed transfer,0.536197971597924,0.4329422834138251,0.6440642239027681
-ligand_similar,Ligand similar,ExtraTreeRegressor,Delta learning,0.5432344952964929,0.4010733880437968,0.6391598750364389
-reaction_representation_matched,Reaction-representation matched,SVR,Delta learning,0.5013524953638833,0.45337281395590934,0.6678203964934859
+ligand_similar,Ligand similar,ExtraTreeRegressor,Delta learning,0.5432344952964929,0.4010733880437967,0.6391598750364389
+reaction_representation_similar,Reaction-representation similar,RandomForestRegressor,Mixed transfer,0.5605120928979712,0.44797387870690436,0.6269549258001029
+mechanism_aligned,Mechanism aligned,ExtraTreesRegressor,Mixed transfer,0.640186249107388,0.35048708630859765,0.5672855644983353

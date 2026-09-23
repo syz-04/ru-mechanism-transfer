@@ -1,0 +1,5 @@
+source_rule_id,source_label,mean_overlap_with_mechanism_aligned
+substrate_similar,Substrate similar,0.31676767676767675
+ligand_similar,Ligand similar,0.64
+reaction_representation_similar,Reaction-representation similar,0.13818181818181818
+mechanism_aligned,Mechanism aligned,1.0

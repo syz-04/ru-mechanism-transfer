@@ -1,0 +1,4 @@
+index,selection,display_name,model,method_label,n,MAE,median_absolute_error,sd_absolute_error
+0,baseline,Best target-only baseline,SVR,Target-only,98,0.4521168639476564,0.2774311646390346,0.499766180453358
+1,different_mechanism_transfer,Best different-mechanism transfer,SVR,Mixed transfer,98,0.4173672495167746,0.24577342937787067,0.46837463356970127
+2,same_mechanism_transfer,Best same-mechanism transfer,ExtraTreesRegressor,Mixed transfer,98,0.3504870863085977,0.19595508500000047,0.4483558506396526
