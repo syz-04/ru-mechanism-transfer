@@ -8,7 +8,7 @@ The notebooks analyze transfer learning from Ru-catalyzed asymmetric ketone hydr
 
 | Notebook | Contents |
 | --- | --- |
-| [0.1 — Data preparation](0_1_clean_ru_aho_and_build_ru_ahk_domains.ipynb) | Clean the original AHO database and select the Ru-AHO target reactions. Clean the Ru-AHK records, retain the supplied mechanism labels, remove duplicates, and export inner- and outer-sphere source datasets. |
+| [0.1 — Data preparation](notebooks/0_data_preparation/0_1_clean_ru_aho_and_build_ru_ahk_domains.ipynb) | Clean the original AHO database and select the Ru-AHO target reactions. Clean the Ru-AHK records, retain the supplied mechanism labels, remove duplicates, and export inner- and outer-sphere source datasets. |
 | [0.2 — Dataset overview](0_2_dataset_overview_distribution.ipynb) | Summarize reaction and structure counts, selectivity distributions, substrate and ligand MACCS–PCA projections, exact structure overlap, and selectivity-distribution overlap. Export plots and their numerical source data. |
 | [0.3 — External dataset preparation](0_3_clean_and_export_recent_AHO_dataset.ipynb) | Clean and deduplicate the recent Ru-AHO literature records and export the external validation table. |
 | [1.1 — MACCS source comparison](1_1_maccs_source_comparison.ipynb) | Compare target-only training with inner- and outer-sphere Ru-AHK transfer using MACCS features, 10 regression algorithms, mixed transfer, and delta learning. Export pooled out-of-fold metrics and plots. The final section evaluates the combined Ru-AHK source. |
