@@ -1,6 +1,6 @@
 source_rule_id,source_label,model,method_label,R2,MAE,RMSE
 target_only,Target-only baseline,GradientBoostingRegressor,Target-only,0.6216549561960976,0.4058044566618454,0.581710467449914
-substrate_similar,Substrate similar,HistGradientBoostingRegressor,Delta learning,0.6211044876537164,0.4418446606321288,0.5821334899400713
+substrate_similar,Substrate similar,HistGradientBoostingRegressor,Delta learning,0.6211044876537163,0.4418446606321288,0.5821334899400713
 ligand_similar,Ligand similar,HistGradientBoostingRegressor,Mixed transfer,0.6657822607905733,0.3971614022669525,0.5467359138197423
-reaction_representation_similar,Reaction-representation similar,HistGradientBoostingRegressor,Mixed transfer,0.6840173947073946,0.38969821318465636,0.5316115913922524
+reaction_representation_similar,Reaction-representation similar,HistGradientBoostingRegressor,Mixed transfer,0.6840173947073946,0.38969821318465636,0.5316115913922526
 mechanism_aligned,Mechanism aligned,HistGradientBoostingRegressor,Mixed transfer,0.7029082984069634,0.35252056958565897,0.5154756022020172

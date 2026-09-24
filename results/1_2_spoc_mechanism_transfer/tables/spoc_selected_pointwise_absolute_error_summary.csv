@@ -1,4 +1,0 @@
-comparison,n_improved,fraction_improved,mean_absolute_error,median_absolute_error
-Different mechanism vs target-only,53,0.5408163265306123,0.39440565664706645,0.25846901559172
-Same mechanism vs target-only,51,0.5204081632653061,0.35252056958565897,0.24177713788011412
-Same mechanism vs different mechanism,50,0.5102040816326531,0.35252056958565897,0.24177713788011412

@@ -1,4 +1,0 @@
-selection,n_total,tail_threshold,display_upper_bound,n_above_threshold,n_in_display_window,n_above_display_window,fraction_above_threshold,fraction_in_display_window
-baseline,98,0.5,2.5,25,25,0,0.25510204081632654,0.25510204081632654
-different_mechanism_transfer,98,0.5,2.5,25,25,0,0.25510204081632654,0.25510204081632654
-same_mechanism_transfer,98,0.5,2.5,23,23,0,0.23469387755102042,0.23469387755102042

@@ -1,4 +1,4 @@
 scenario_key,result_name,prediction_column,MAE,RMSE,R2,PearsonR
-target_only,Target-only | 3 MACCS + 3 SPOC ensemble mean,pred_target_only_3_maccs_3_spoc_ensemble_mean,0.7472875822829878,0.857183277112155,0.18780213985384486,0.5325162170640703
-mechanism_mismatched,Mechanism-mismatched transfer | 3 MACCS + 3 SPOC ensemble mean,pred_mechanism_mismatched_transfer_3_maccs_3_spoc_ensemble_mean,0.7705846404825218,0.891500630104321,0.12146762507700049,0.37794701584567886
-mechanism_aligned,Mechanism-aligned transfer | 3 MACCS + 3 SPOC ensemble mean,pred_mechanism_aligned_transfer_3_maccs_3_spoc_ensemble_mean,0.6502892722384757,0.7455435951141167,0.3855867842438899,0.7041946725959233
+target_only,Target-only | 3 MACCS + 3 SPOC ensemble mean,pred_target_only_3_maccs_3_spoc_ensemble_mean,0.7472875822829878,0.857183277112155,0.18780213985384464,0.5325162170640703
+mechanism_mismatched,Mechanism-mismatched transfer | 3 MACCS + 3 SPOC ensemble mean,pred_mechanism_mismatched_transfer_3_maccs_3_spoc_ensemble_mean,0.7706455755408188,0.8909142877980396,0.12262287114940451,0.38232325354721164
+mechanism_aligned,Mechanism-aligned transfer | 3 MACCS + 3 SPOC ensemble mean,pred_mechanism_aligned_transfer_3_maccs_3_spoc_ensemble_mean,0.6502892722384757,0.7455435951141167,0.3855867842438899,0.7041946725959236

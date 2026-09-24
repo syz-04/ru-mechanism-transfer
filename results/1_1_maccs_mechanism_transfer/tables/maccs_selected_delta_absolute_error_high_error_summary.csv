@@ -1,3 +1,0 @@
-descriptor,subset_definition,n_total_reactions,n_high_error_reactions,high_error_fraction,transfer,n_improved,fraction_improved,median_delta_abs_error,mean_delta_abs_error
-MACCS,Target-only absolute error > 0.50 kcal/mol,98,25,0.25510204081632654,Different-mechanism transfer,14,0.56,-0.01806348488381415,-0.13715193069969345
-MACCS,Target-only absolute error > 0.50 kcal/mol,98,25,0.25510204081632654,Same-mechanism transfer,21,0.84,-0.4147089041516785,-0.516974215910672

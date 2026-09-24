@@ -1,4 +1,0 @@
-index,selection,display_name,model,method_label,n,MAE,median_absolute_error,sd_absolute_error
-0,baseline,Best target-only baseline,GradientBoostingRegressor,Target-only,98,0.4058044566618454,0.25623753008664574,0.41892795763341617
-1,different_mechanism_transfer,Best different-mechanism transfer,RandomForestRegressor,Mixed transfer,98,0.39440565664706645,0.25846901559172,0.3990969576354011
-2,same_mechanism_transfer,Best same-mechanism transfer,HistGradientBoostingRegressor,Mixed transfer,98,0.35252056958565897,0.24177713788011412,0.37802451455286884
