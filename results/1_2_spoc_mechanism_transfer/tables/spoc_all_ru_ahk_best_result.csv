@@ -1,0 +1,2 @@
+descriptor,model,transfer_method,R2,MAE
+SPOC,HistGradientBoostingRegressor,Mixed transfer,0.6628923301109502,0.3943093500900019

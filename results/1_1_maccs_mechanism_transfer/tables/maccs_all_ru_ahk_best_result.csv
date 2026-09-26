@@ -1,0 +1,2 @@
+descriptor,model,transfer_method,R2,MAE
+MACCS,RandomForestRegressor,Mixed transfer,0.6077147795301482,0.42945687096897034
